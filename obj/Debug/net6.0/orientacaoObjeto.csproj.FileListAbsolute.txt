@@ -1,0 +1,15 @@
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.exe
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.deps.json
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.runtimeconfig.json
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.dll
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\ref\orientacaoObjeto.dll
+C:\POO_CSHARP\orientacaoObjeto\bin\Debug\net6.0\orientacaoObjeto.pdb
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.csproj.AssemblyReference.cache
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.AssemblyInfoInputs.cache
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.AssemblyInfo.cs
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.csproj.CoreCompileInputs.cache
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.dll
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\ref\orientacaoObjeto.dll
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.pdb
+C:\POO_CSHARP\orientacaoObjeto\obj\Debug\net6.0\orientacaoObjeto.genruntimeconfig.cache
